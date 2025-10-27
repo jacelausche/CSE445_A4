@@ -1,0 +1,134 @@
+<Hotels xmlns="http://venus.sod.asu.edu/WSRepository/xml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://venus.sod.asu.edu/WSRepository/xml Courses.xsd">
+
+    <Hotel>
+        <Name>Hilton Garden Inn Phoniex/Tempe ASU Area</Name>
+        <Phone>(480) 968-2180</Phone>
+        <Phone>480-965 5678</Phone>
+        <Adress NearestAirport="Sky Harbor International Airport">
+            <Number>86</Number>
+            <Street>S. Rockford Dr.</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+        </Adress>
+    </Hotel>
+
+    <Hotel>
+        <Name>Holiday Inn Express and Suites Phoenix-Tempe, an IHG Hotel</Name>
+        <Phone>(480) 784-2233</Phone>
+        <Adress NearestAirport="Sky Harbor International Airport">
+            <Number>670</Number>
+            <Street>N. Scottsdale Rd.</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85288</Zip>
+        </Adress>
+        <Rating>3.7</Rating>
+    </Hotel>
+
+    <Hotel>
+        <Name>SureStay Plus Hotel by Best Western Tempe University</Name>
+        <Phone>(480) 675-9799</Phone>
+        <Adress NearestAirport="Sky Harbor International Airport">
+            <Number>1429</Number>
+            <Street>N. Scottsdale Rd.</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85288</Zip>
+        </Adress>
+        <Rating>2.6</Rating>
+    </Hotel>
+
+    <Hotel>
+        <Name>Holiday Inn Seattle Downtown - Lake Union by IHG</Name>
+        <Phone>(206) 728-8123</Phone>
+        <Adress NearestAirport="Seattle-Tacoma International Airport">
+            <Number>211</Number>
+            <Street>Dexter Ave N</Street>
+            <City>Seattle</City>
+            <State>WA</State>
+            <Zip>98109</Zip>
+        </Adress>
+    </Hotel>
+
+    <Hotel>
+        <Name>Hyatt House Seattle/Downtown</Name>
+        <Phone>(206) 727-1234</Phone>
+        <Phone>(206) 727-3236</Phone>
+        <Phone>(206) 727-6212</Phone>
+        <Phone>(206) 727-6246</Phone>
+        <Adress NearestAirport="Seattle-Tacoma International Airport">
+            <Number>201</Number>
+            <Street>5th Ave N</Street>
+            <City>Seattle</City>
+            <State>WA</State>
+            <Zip>98109</Zip>
+        </Adress>
+        <Rating>4.2</Rating>
+    </Hotel>
+    
+    <Hotel>
+        <Name>Hyatt Regency Lake Washington at Seattle's Southport</Name>
+        <Phone>(425) 203-1234</Phone>
+        <Adress NearestAirport="Seattle-Tacoma International Airport">
+            <Number>1053</Number>
+            <Street>Lake Washington Blvd N</Street>
+            <City>Renton</City>
+            <State>WA</State>
+            <Zip>98056</Zip>
+        </Adress>
+        <Rating>4.5</Rating>
+    </Hotel>
+
+     <Hotel>
+        <Name>Hyatt Regency Chicago</Name>
+        <Phone>(312) 565-1234</Phone>
+        <Adress NearestAirport="Chicago O'Hare International Airport">
+            <Number>151</Number>
+            <Street>E Wacker Dr</Street>
+            <City>Chicago</City>
+            <State>IL</State>
+            <Zip>60601</Zip>
+        </Adress>
+        <Rating>4.4</Rating>
+    </Hotel>
+
+    <Hotel>
+        <Name>Hilton Garden Inn Chicago Downtown/Magnificent Mile</Name>
+        <Phone>(312) 595-0000</Phone>
+        <Phone>(312) 595-0230</Phone>
+        <Adress NearestAirport="Chicago O'Hare International Airport">
+            <Number>10</Number>
+            <Street>E Grand Ave</Street>
+            <City>Chicago</City>
+            <State>IL</State>
+            <Zip>60611</Zip>
+        </Adress>
+    </Hotel>
+
+    <Hotel>
+        <Name>Freehand Chicago</Name>
+        <Phone>(312) 940-3699</Phone>
+        <Adress NearestAirport="Chicago O'Hare International Airport">
+            <Number>19</Number>
+            <Street>E Ohio St</Street>
+            <City>Chicago</City>
+            <State>IL</State>
+            <Zip>60611</Zip>
+        </Adress>
+        <Rating>3.9</Rating>
+    </Hotel>
+
+     <Hotel>
+        <Name>The St. Regis Chicago</Name>
+        <Phone>(312) 787-3447</Phone>
+        <Adress NearestAirport="Chicago O'Hare International Airport">
+            <Number>401</Number>
+            <Street>E Wacker Dr</Street>
+            <City>Chicago</City>
+            <State>IL</State>
+            <Zip>60601</Zip>
+        </Adress>
+    </Hotel>
+
+</Hotels>
