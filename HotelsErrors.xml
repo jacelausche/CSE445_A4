@@ -13,7 +13,7 @@
         </Address>
     </Hotel>
 
-    <Hotel>
+    <Hotel Rating="3.7">
         <Name>Holiday Inn Express and Suites Phoenix-Tempe, an IHG Hotel</Name>
 
         <Address NearestAirport="Sky Harbor International Airport">
@@ -23,10 +23,9 @@
             <State>AZ</State>
             <Zip>85288</Zip>
         </Address>
-        <Rating>3.7</Rating>
     </Hotel>
 
-    <Hotel>
+    <Hotel Rating="2.6">
         <Name>SureStay Plus Hotel by Best Western Tempe University</Name>
         <Phone>(480) 675-9799</Phone>
         <Address NearestAirport="Sky Harbor International Airport">
@@ -35,7 +34,6 @@
             <City>Tempe</City>
             <State>AZ</State>
             <Zip>85288</Zip>
-        <Rating>2.6</Rating>
     </Hotel>
 
     <Hotel>
@@ -50,7 +48,7 @@
         </Address>
     </Hotel>
 
-    <Hotel>
+    <Hotel Rating="4.2">
         <Name>Hyatt House Seattle/Downtown</Name>
         <Name>Holiday Inn Seattle Downtown - Lake Union by IHG</Name>
         <Phone>(206) 727-1234</Phone>
@@ -64,10 +62,9 @@
             <State>WA</State>
             <Zip>98109</Zip>
         </Address>
-        <Rating>4.2</Rating>
     </Hotel>
     
-    <Hotel>
+    <Hotel Rating="4.5">
         <Name>Hyatt Regency Lake Washington at Seattle's Southport</Name>
         <Phone>(425) 203-1234</Phone>
         <Address NearestAirport="Seattle-Tacoma International Airport">
@@ -77,10 +74,9 @@
             <State>WA</State>
             <Zip>98056</Zip>
         </Address>
-        <Rating>4.5</Rating>
     </Hotel>
 
-     <Hotel>
+     <Hotel Rating="4.4">
         <Name>Hyatt Regency Chicago</Name>
         <Phone>(312) 565-1234</Phone>
         <Address NearestAirport="Chicago O'Hare International Airport">
@@ -90,7 +86,6 @@
             <State>IL</State>
             <Zip>60601</Zip>
         </Address>
-        <Rating>4.4</Rating>
     </Hotel>
 
     <Hotel>
@@ -106,7 +101,7 @@
         </Address>
     </Hotel>
 
-    <Hotel>
+    <Hotel Rating="3.9">
         <Name>Freehand Chicago</Name>
         <Phone>(312) 940-3699</Phone>
         <Address NearestAirport="Chicago O'Hare International Airport">
@@ -116,7 +111,6 @@
             <State>IL</State>
             <Zip>60611</Zip>
         </Address>
-        <Rating>3.9</Rating>
     </Hotel>
 
      <Hotel>
